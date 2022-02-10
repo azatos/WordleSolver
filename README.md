@@ -11,8 +11,8 @@ wordle.cpp 파일 디렉토리에서 다음을 실행
 2:strike
 
 ex)
-given word : ulcer
-our input  : bales
-cmd input  : 00120
+- given word : ulcer
+- our input  : bales
+- cmd input  : 00120
 ## 결과
 https://www.notion.so/blackwind/Wordle-Solver-Weak-97aad05b48284fd9b331cf6bc1686013
