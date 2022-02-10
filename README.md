@@ -9,9 +9,7 @@ wordle.cpp 파일 디렉토리에서 다음을 실행
 - 0:miss
 - 1:ball
 - 2:strike
-
-
-
+>
 ex)
 - given word : ulcer
 - our input  : bales
