@@ -14,7 +14,7 @@ ex)
 - given word : ulcer
 - our input  : bales
 - cmd result : 00120
-## 결과
+## 결과 및 분석
 https://www.notion.so/blackwind/Wordle-Solver-Weak-97aad05b48284fd9b331cf6bc1686013
 ## Checker
 다음을 통해 실행
