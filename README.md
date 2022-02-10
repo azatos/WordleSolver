@@ -16,3 +16,9 @@ ex)
 - cmd input  : 00120
 ## 결과
 https://www.notion.so/blackwind/Wordle-Solver-Weak-97aad05b48284fd9b331cf6bc1686013
+## Checker
+다음을 통해 실행
+> g++ checker.cpp -o checker
+> 
+> ./checker
+# 
